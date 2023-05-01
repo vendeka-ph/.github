@@ -1,12 +1,13 @@
 # .github
 
 # Vendeka Information Technologies
-Website: 
+Vendeka Group 
 www.vendeka.com.ph
 
+Vendeka RFID Solutions
 http://rfidsolutions.com.ph/
 
-Toll Calculator Application for the Philippines
+Vendeka Toll Calculator Application for the Philippines
 http://toll.rfidsolutions.com.ph/
 
 
