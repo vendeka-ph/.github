@@ -10,3 +10,17 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Vendeka Information Technologies
+Vendeka Group 
+www.vendeka.com.ph
+
+Vendeka RFID Solutions
+www.rfidsolutions.com.ph
+
+Vendeka Toll Calculator Application for the Philippines
+www.toll.rfidsolutions.com.ph
+
+Vendeka Account Management Systems(AMS)
+http://ams.rfidsolutions.com.ph/
+
