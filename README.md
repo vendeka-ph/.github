@@ -5,9 +5,9 @@ Vendeka Group
 www.vendeka.com.ph
 
 Vendeka RFID Solutions
-http://rfidsolutions.com.ph/
+www.rfidsolutions.com.ph
 
 Vendeka Toll Calculator Application for the Philippines
-http://toll.rfidsolutions.com.ph/
+www.toll.rfidsolutions.com.ph
 
 
